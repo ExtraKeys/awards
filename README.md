@@ -4,14 +4,14 @@ Out of a desire to recognize their *outstanding* efforts on our behalf (whether 
 
 ## Universal Clacker Award
 
-!]TweetbotUCACombined](tweetbot/TweetbotUniversalClackerAwardCombined.png)
+![TweetbotUCACombined](tweetbot/TweetbotUniversalClackerAwardCombined.PNG)
 
 ### Tweetbot
 
-!]MastodonUCACombined](tweetbot/MastodonUniversalClackerAwardCombined.png)
+![MastodonUCACombined](mastodon/MastodonUniversalClackerAwardCombined.PNG)
 
 ### Mastodon for iPhone
 
-!]BlinkUCACombined](tweetbot/TweetbotUniversalClackerAwardCombined.png)
+![BlinkUCACombined](blink/BlinkUniversalClackerAwardCombined.png)
 
 ### Blink Shell & Code
