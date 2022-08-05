@@ -1,0 +1,13 @@
+Hi, I'm Jeffrey Kuiken! 👋
+
+I am a indie iOS developer from Amsterdam, The Netherlands. In 2020, I developed ACNH Travel Guide, a companion app for the game Animal Crossing New Horizons. The app was downloaded tens of thousands of times, and is currently being rated 4.9/5 based on over 5200 ratings.
+
+With Noir, I'm releasing my second app on the App Store. And even though Noir serves a very different purpose than ACNH Travel Guide, I followed the same design principles as I followed while building ACNH Travel Guide. Both are a truly native app, with great attention to detail, that feel right at home on iOS and iPadOS.
+
+
+============
+
+Email: jeffrey@jeffreykuiken.nl
+Twitter: https://twitter.com/jffrykkn
+
+ACNH Travel Guide: https://itunes.apple.com/app/id1502818559

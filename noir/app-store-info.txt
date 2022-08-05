@@ -1,0 +1,30 @@
+# Name
+Noir - Dark Mode for Safari
+
+# Download Link (active once Noir is released)
+https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954
+
+# Release Date
+Monday September 20th 2021
+
+# Price
+$2.99 / €2,99 (or local equivalent)
+
+# Categories
+- Utilities
+- Productivity
+
+# Devices supported
+iPhone, iPad
+
+# App Privacy
+Data Not Collected: The developer does not collect any data from this app.
+
+# Developer Name
+Jeffrey Kuiken
+
+# Website
+https://getnoir.app
+
+# Apple App ID
+1581140954
